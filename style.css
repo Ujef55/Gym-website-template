@@ -1,0 +1,59 @@
+/* global css */
+
+
+body {
+    background-color: #F0F8FF;
+}
+
+
+a:hover {
+    cursor: pointer;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+/*  */
+
+
+.logo {
+width: 60px;
+}
+
+.team-header {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+
+.footer {
+    background-color: #E1EBEE;
+}
+
+.navBar {
+    background-color: #E1EBEE;
+}
+
+.navBar nav:hover {
+    cursor: pointer;
+}
+
+header nav a {
+    margin: 0 15px;
+}
+
+header nav a:hover {
+    color: rgb(0, 0, 0);
+}
+
+header nav a.active {
+    color:  rgb(0, 0, 0);
+}
+
+
+
